@@ -10,8 +10,7 @@ bool checkPrime(uint64_t value) {
     }
     if (kol == 0) {
         return true;
-    }
-    else {
+    } else {
         return false;
     }
     return 0;
